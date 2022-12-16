@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1583390112 source:c:\users\elsay\desktop\pyembedder\main.cpp
+	<iostream>
+	"pyhelper.h"
+
+1571100146 c:\program files (x86)\python38-32\include\python.h
+	"patchlevel.h"
+	"pyconfig.h"
+	"pymacconfig.h"
+	<limits.h>
+	<stdio.h>
+	<string.h>
+	<errno.h>
+	<stdlib.h>
+	<unistd.h>
+	<crypt.h>
+	<stddef.h>
+	<assert.h>
+	"pyport.h"
+	"pymacro.h"
+	"pymath.h"
+	"pytime.h"
+	"pymem.h"
+	"object.h"
+	"objimpl.h"
+	"typeslots.h"
+	"pyhash.h"
+	"pydebug.h"
+	"bytearrayobject.h"
+	"bytesobject.h"
+	"unicodeobject.h"
+	"longobject.h"
+	"longintrepr.h"
+	"boolobject.h"
+	"floatobject.h"
+	"complexobject.h"
+	"rangeobject.h"
+	"memoryobject.h"
+	"tupleobject.h"
+	"listobject.h"
+	"dictobject.h"
+	"odictobject.h"
+	"enumobject.h"
+	"setobject.h"
+	"methodobject.h"
+	"moduleobject.h"
+	"funcobject.h"
+	"classobject.h"
+	"fileobject.h"
+	"pycapsule.h"
+	"traceback.h"
+	"sliceobject.h"
+	"cellobject.h"
+	"iterobject.h"
+	"genobject.h"
+	"descrobject.h"
+	"warnings.h"
+	"weakrefobject.h"
+	"structseq.h"
+	"namespaceobject.h"
+	"picklebufobject.h"
+	"codecs.h"
+	"pyerrors.h"
+	"cpython/initconfig.h"
+	"pystate.h"
+	"context.h"
+	"pyarena.h"
+	"modsupport.h"
+	"compile.h"
+	"pythonrun.h"
+	"pylifecycle.h"
+	"ceval.h"
+	"sysmodule.h"
+	"osmodule.h"
+	"intrcheck.h"
+	"import.h"
+	"abstract.h"
+	"bltinmodule.h"
+	"eval.h"
+	"pyctype.h"
+	"pystrtod.h"
+	"pystrcmp.h"
+	"dtoa.h"
+	"fileutils.h"
+	"pyfpe.h"
+	"tracemalloc.h"
+
+1571100146 c:\program files (x86)\python38-32\include\patchlevel.h
+
+1571100148 c:\program files (x86)\python38-32\include\pyconfig.h
+	<io.h>
+	<float.h>
+	<basetsd.h>
+	<stdio.h>
+
+1571100146 c:\program files (x86)\python38-32\include\pymacconfig.h
+
+1571100146 c:\program files (x86)\python38-32\include\pyport.h
+	"pyconfig.h"
+	<inttypes.h>
+	<stdlib.h>
+	<ieeefp.h>
+	<math.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<sys/select.h>
+	<sys/stat.h>
+	<stat.h>
+	<sys/types.h>
+	<sys/termio.h>
+	<ctype.h>
+	<wctype.h>
+
+1571100146 c:\program files (x86)\python38-32\include\pymacro.h
+
+1571100146 c:\program files (x86)\python38-32\include\pymath.h
+	"pyconfig.h"
+
+1571100146 c:\program files (x86)\python38-32\include\pytime.h
+	"pyconfig.h"
+	"object.h"
+
+1571100146 c:\program files (x86)\python38-32\include\object.h
+	"pymem.h"
+	"cpython/object.h"
+
+1571100146 c:\program files (x86)\python38-32\include\pymem.h
+	"pyport.h"
+	"cpython/pymem.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\pymem.h
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\object.h
+
+1571100146 c:\program files (x86)\python38-32\include\objimpl.h
+	"pymem.h"
+	"cpython/objimpl.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\objimpl.h
+
+1571100146 c:\program files (x86)\python38-32\include\typeslots.h
+
+1571100146 c:\program files (x86)\python38-32\include\pyhash.h
+
+1571100146 c:\program files (x86)\python38-32\include\pydebug.h
+
+1571100146 c:\program files (x86)\python38-32\include\bytearrayobject.h
+	<stdarg.h>
+
+1571100146 c:\program files (x86)\python38-32\include\bytesobject.h
+	<stdarg.h>
+
+1571100146 c:\program files (x86)\python38-32\include\unicodeobject.h
+	<stdarg.h>
+	<ctype.h>
+	<wchar.h>
+	"cpython/unicodeobject.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\unicodeobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\longobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\longintrepr.h
+
+1571100146 c:\program files (x86)\python38-32\include\boolobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\floatobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\complexobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\rangeobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\memoryobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\tupleobject.h
+	"cpython/tupleobject.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\tupleobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\listobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\dictobject.h
+	"cpython/dictobject.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\dictobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\odictobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\enumobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\setobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\methodobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\moduleobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\funcobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\classobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\fileobject.h
+	"cpython/fileobject.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\fileobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\pycapsule.h
+
+1571100146 c:\program files (x86)\python38-32\include\traceback.h
+	"cpython/traceback.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\traceback.h
+
+1571100146 c:\program files (x86)\python38-32\include\sliceobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\cellobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\iterobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\genobject.h
+	"pystate.h"
+
+1571100146 c:\program files (x86)\python38-32\include\pystate.h
+	"pythread.h"
+	"cpython/pystate.h"
+
+1571100146 c:\program files (x86)\python38-32\include\pythread.h
+	<pthread.h>
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\pystate.h
+	"cpython/initconfig.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\initconfig.h
+
+1571100146 c:\program files (x86)\python38-32\include\descrobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\warnings.h
+
+1571100146 c:\program files (x86)\python38-32\include\weakrefobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\structseq.h
+
+1571100146 c:\program files (x86)\python38-32\include\namespaceobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\picklebufobject.h
+
+1571100146 c:\program files (x86)\python38-32\include\codecs.h
+
+1571100146 c:\program files (x86)\python38-32\include\pyerrors.h
+	<stdarg.h>
+	"cpython/pyerrors.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\pyerrors.h
+
+1571100146 c:\program files (x86)\python38-32\include\context.h
+
+1571100146 c:\program files (x86)\python38-32\include\pyarena.h
+
+1571100146 c:\program files (x86)\python38-32\include\modsupport.h
+	<stdarg.h>
+
+1571100146 c:\program files (x86)\python38-32\include\compile.h
+	"code.h"
+
+1571100146 c:\program files (x86)\python38-32\include\code.h
+
+1571100146 c:\program files (x86)\python38-32\include\pythonrun.h
+
+1571100146 c:\program files (x86)\python38-32\include\pylifecycle.h
+	"cpython/pylifecycle.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\pylifecycle.h
+
+1571100146 c:\program files (x86)\python38-32\include\ceval.h
+
+1571100146 c:\program files (x86)\python38-32\include\sysmodule.h
+	"cpython/sysmodule.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\sysmodule.h
+
+1571100146 c:\program files (x86)\python38-32\include\osmodule.h
+
+1571100146 c:\program files (x86)\python38-32\include\intrcheck.h
+
+1571100146 c:\program files (x86)\python38-32\include\import.h
+
+1571100146 c:\program files (x86)\python38-32\include\abstract.h
+	"cpython/abstract.h"
+
+1571100146 c:\program files (x86)\python38-32\include\cpython\abstract.h
+
+1571100146 c:\program files (x86)\python38-32\include\bltinmodule.h
+
+1571100146 c:\program files (x86)\python38-32\include\eval.h
+
+1571100146 c:\program files (x86)\python38-32\include\pyctype.h
+
+1571100146 c:\program files (x86)\python38-32\include\pystrtod.h
+
+1571100146 c:\program files (x86)\python38-32\include\pystrcmp.h
+
+1571100146 c:\program files (x86)\python38-32\include\dtoa.h
+
+1571100146 c:\program files (x86)\python38-32\include\fileutils.h
+
+1571100146 c:\program files (x86)\python38-32\include\pyfpe.h
+
+1571100146 c:\program files (x86)\python38-32\include\tracemalloc.h
+
+1583352160 c:\users\elsay\desktop\pyembedder\pyhelper.h
+	<Python.h>
+
